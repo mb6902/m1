@@ -35,7 +35,7 @@
     width: 100%;
     /* height: 500px; */
     flex-wrap: wrap;
-    margin-top: 15%;
+    /* margin-top: 15%; */
 
 }
 .upperwork{
@@ -95,10 +95,12 @@
     flex-wrap: wrap;
     padding-top: 20%;
     margin-top: 10px;
+    background-image: url("./works/Burj-Khalifa-full-HD.jpg");
 }
 .right-place{
   /* height: 300px; */
     background-color: rgb(230, 251,255 );
+    /* margin-top: 10%; */
 }
 .text-right-place{
     text-align: center;
